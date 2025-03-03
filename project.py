@@ -135,5 +135,5 @@ if uploaded_files:
                 file_name=file_name,
                 mime=mime_type,
             )
+            st.markdown("<span style='color: green;'>All files processed successfully</span>", unsafe_allow_html=True)
 
-            st.success("<span style='color: green;'>All files processed successfully</span>", unsafe_allow_html=True)
