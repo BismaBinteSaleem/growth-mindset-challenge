@@ -15,27 +15,27 @@ st.markdown("""
             font-family: Arial, sans-serif;
         }
         .stButton>button {
-            background-color: #00bcd4;  /* Teal color */
+            background-color: #00bcd4;  
             color: white;
             font-weight: bold;
             border-radius: 5px;
         }
         .stButton>button:hover {
-            background-color: #008c9e;  /* Darker teal */
+            background-color: #008c9e;  
         }
         .stCheckbox>label {
-            color: #00796b;  /* Dark green */
+            color: #00796b;  
             font-size: 16px;
         }
         .stRadio>label {
-            color: #ff5722;  /* Vibrant orange */
+            color: #ff5722;  
             font-size: 16px;
         }
         .stTextInput>label {
-            color: #d32f2f;  /* Red color */
+            color: #d32f2f;  
         }
         .stFileUploader {
-            background-color: #c1e5e5;  /* Light teal */
+            background-color: #c1e5e5;  
             border-radius: 10px;
             padding: 10px;
         }
@@ -46,14 +46,14 @@ st.markdown("""
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .stSubheader {
-            color: #37474f;  /* Dark greyish-blue */
+            color: #37474f;  
             font-weight: bold;
         }
         .stWrite {
             color: #333;
         }
         .stDownloadButton>button {
-            background-color: #4caf50;  /* Green for download */
+            background-color: #4caf50;  
             color: white;
             border-radius: 5px;
         }
